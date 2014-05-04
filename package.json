@@ -1,0 +1,11 @@
+{
+  "name": "promise-async-example",
+  "version": "0.0.0",
+  "description": "Promise async example",
+  "main": "index.js",
+  "author": "bouzuya",
+  "license": "MIT",
+  "dependencies": {
+    "q": "1.0.1"
+  }
+}
